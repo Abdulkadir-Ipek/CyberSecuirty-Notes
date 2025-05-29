@@ -11,14 +11,14 @@
             "id": "000d5dfb4085388a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Ana Sayfa.md",
-                "mode": "source",
-                "source": false
+                "aFile": "eJPT-Notes/.obsidian/plugins/obsidian-git/data.json",
+                "bFile": "eJPT-Notes/.obsidian/plugins/obsidian-git/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Ana Sayfa"
+              "icon": "diff",
+              "title": "Diff: data.json"
             }
           }
         ]
@@ -142,13 +142,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_Config/Templates/template_tech_note.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of template_tech_note.md"
+              "title": "Outline"
             }
           },
           {
@@ -182,8 +181,8 @@
   },
   "active": "000d5dfb4085388a",
   "lastOpenFiles": [
-    "Config/Attachments.md",
     "Ana Sayfa.md",
+    "Config/Attachments.md",
     "Config/Templates/Template.md.md",
     "Untitled.md",
     "Untitled 1.md",

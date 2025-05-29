@@ -19,7 +19,7 @@
   "autoBackupAfterFileChange": true,
   "treeStructure": true,
   "refreshSourceControl": true,
-  "basePath": "",
+  "basePath": "https://github.com/Abdulkadir-Ipek/eJPT-notes",
   "differentIntervalCommitAndPush": true,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
