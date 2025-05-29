@@ -14,29 +14,14 @@
               "type": "markdown",
               "state": {
                 "file": "Ana Sayfa.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Ana Sayfa"
             }
-          },
-          {
-            "id": "bedea68f1064a8fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Config/Templates/template_tech_note.md.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "template_tech_note.md"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,24 +180,28 @@
       "graph:Open graph view": false
     }
   },
-  "active": "bedea68f1064a8fa",
+  "active": "000d5dfb4085388a",
   "lastOpenFiles": [
-    "02_Tools/tool_nmap.md",
-    "00_Config/Templates/template_tech_note.md.md",
+    "Config/Attachments.md",
     "Ana Sayfa.md",
-    "02_Tools/Untitled.md",
+    "Config/Templates/Template.md.md",
     "Untitled.md",
+    "Untitled 1.md",
+    "Media",
+    "Cheatsheets",
+    "Techniques/tool_nmap.md",
+    "02_Tools/Untitled.md",
     "Untitled.canvas",
     "Untitled 2.md",
     "Welcome.md",
     "00_Config/Untitled.md",
-    "00_Config/Attachments",
-    "00_Config/Templates",
-    "99_Archive",
-    "03_Labs",
-    "02_Tools",
-    "01_Concepts",
-    "00_Config",
+    "Config/Attachments",
+    "Config/Templates",
+    "Exams",
+    "Labs",
+    "Core",
+    "Techniques",
+    "Config",
     "abdulkadiripek.com.md",
     "create a link.md",
     "Pasted image 20250525174946.png",

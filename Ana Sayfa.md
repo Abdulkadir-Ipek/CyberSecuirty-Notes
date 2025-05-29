@@ -1,17 +1,29 @@
-## Concepts
-- [[net_tcp_ip]]
-- [[linux_priv_esc]]
-- [[web_sql_injection]]
+# Config
 
-## Tools
-- [[tool_nmap]]
-- [[tool_burp]]
-- [[tool_gobuster]]
+- [[Template.md|Template]]
+- 
 
-## Labs
-- [[Bandit_L0-6]]
-- [[THM_LinuxFundamentals]]
-- [[HTB_Fawn]]
+# Core 
+
+	Temel kavram ve protokeller
+
+
+# Cheatsheets
+	Kopyala-yapıştır kısa özetler.
+
+
+# Techniques
+	Araçlar, komutlar, prosedür
+
+
+# Labs
+	THM, HTB, yerel VM senaryoları
+
+
+# Exams 
+	Sadece sınavda açacağın kompakt not
+
+
 
 
 
