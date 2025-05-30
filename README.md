@@ -1,13 +1,14 @@
---- 
-# Config
 
-[Template](Config/templates/template.md)
+# Cybersecurity Notes
 
 --- 
-# Core 
+## Config
+- [Template](Config/templates/template.md)
 
-	Temel kavram ve protokeller
-### Network
+--- 
+## Core 
+
+### - Network
 - [Ağ temelleri](Core/net_ag_temelleri.md)
 - [OSI modeli](Core/net_OSI_models.md)
 - [TCP/IP modeli](Core/net_TCP-IP_model.md)
@@ -15,26 +16,17 @@
 - [En çok kullanılan portlar](Core/net_ports.md)
 - [DNS](Core/net_DNS.md)
 - [HTTP](Core/net_HTTP.md)
-## Tools
+### - Tools
 - [Nmap](Core/tool_nmap.md)
 - [Wireshark](Core/tool_wireshark.md)
 ---
-# Cheatsheets
-	Kopyala-yapıştır kısa özetler.
-
-[Cheatsheets](Cheasheets)
+## Cheatsheets
 
 ---
-# Techniques
-	Araçlar, komutlar, prosedür
-
-[Technique](Technique)
+## Techniques
 
 ---
-# Labs
-	THM, HTB, yerel VM senaryoları
-
-[Labs](Labs)
+## Labs
 
 --- 
 
