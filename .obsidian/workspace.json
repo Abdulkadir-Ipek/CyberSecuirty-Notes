@@ -140,12 +140,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core/net_ag_temelleri.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "net_ag_temelleri"
+              "title": "README"
             }
           }
         ],
@@ -327,8 +327,8 @@
   "active": "5c782594de4fbf6f",
   "lastOpenFiles": [
     "Core.md",
-    "Core/net_OSI_models.md",
     "Core/net_ag_temelleri.md",
+    "Core/net_OSI_models.md",
     "Core/tool_nmap.md",
     "README.md",
     "Labs.md",
