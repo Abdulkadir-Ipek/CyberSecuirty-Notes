@@ -4,8 +4,6 @@
 **TCP/IP (Transmission Control Protocol/Internet Protocol)**, modern internetin temelini oluşturan protokol takımıdır.  
 OSI modelinden farklı olarak **4 katmandan** oluşur ve gerçek dünya internet iletişimi bu modele dayanır.
 
-![pasted_image_20250530-215542.png](Config/Attachments/pasted_image_20250530-215542.png)
-
 ---
 
 ## 1. Uygulama Katmanı (Application Layer)
