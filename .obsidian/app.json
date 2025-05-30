@@ -1,4 +1,5 @@
 {
   "newFileLocation": "root",
-  "attachmentFolderPath": "Config/Attachments"
+  "attachmentFolderPath": "Config/Attachments",
+  "newLinkFormat": "absolute"
 }
