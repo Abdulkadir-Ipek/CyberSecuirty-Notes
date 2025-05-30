@@ -1,13 +1,13 @@
 
 ### Network
-- [[net_ag_temelleri]]
-- [[net_OSI_models]]
-- [[net_TCP-IP_model]]
-- [[net_cihaz_tespiti]]
-- [[net_ports]]
-- [[net_DNS]]
-- [[net_HTTP]]
+- [Ağ temelleri](Core/net_ag_temelleri.md)
+- [OSI modeli](Core/net_OSI_models.md)
+- [TCP/IP modeli](Core/net_TCP-IP_model.md)
+- [Cihaz Tespiti](Core/net_cihaz_tespiti.md)
+- [En çok kullanılan portlar](Core/net_ports.md)
+- [DNS](Core/net_DNS.md)
+- [HTTP](Core/net_HTTP.md)
 
 ## Tools
-- [[Core/tool_nmap|tool_nmap]]
-- [[tool_wireshark]]
+- [Nmap](Core/tool_nmap.md)
+- [Wireshark](Core/tool_wireshark.md)

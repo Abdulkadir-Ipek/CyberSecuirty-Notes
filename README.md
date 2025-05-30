@@ -2,27 +2,27 @@
 
 # Config
 
-[[Template.md|Template]]
+[Template](Config/templates/template.md)
 # Core 
 
 	Temel kavram ve protokeller
 
-[[Core]]
+[Core](Core)
 
 # Cheatsheets
 	Kopyala-yapıştır kısa özetler.
 
-[[Cheatsheets]]
+[Cheatsheets](Cheasheets)
 
 # Techniques
 	Araçlar, komutlar, prosedür
 
-[[Technique]]
+[Technique](Technique)
 
 # Labs
 	THM, HTB, yerel VM senaryoları
 
-[[Labs]]
+[Labs](Labs)
 
 
 
