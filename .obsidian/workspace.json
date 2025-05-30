@@ -4,138 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ad5120ae19cbce6d",
-        "type": "tabs",
-        "dimension": 65.28213166144201,
-        "children": [
-          {
-            "id": "000d5dfb4085388a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core/linux_temelleri.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "linux_temelleri"
-            }
-          },
-          {
-            "id": "155c9f9ebb6d69dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "daf5dff1bc599c3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core/net_cihaz_tespiti.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "net_cihaz_tespiti"
-            }
-          },
-          {
-            "id": "41695913e5e04475",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core/net_ports.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "net_ports"
-            }
-          },
-          {
-            "id": "78b9d4afaef4eba8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core/tool_wireshark.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tool_wireshark"
-            }
-          },
-          {
-            "id": "8d47d054d4cc0595",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core/net_DNS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "net_DNS"
-            }
-          },
-          {
-            "id": "c96b4940130e4618",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "5c782594de4fbf6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          }
-        ],
-        "currentTab": 7
-      },
-      {
         "id": "d2cbe6d424cd438d",
         "type": "tabs",
-        "dimension": 34.71786833855799,
         "children": [
           {
             "id": "80499e96ee4a72c4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Core/net_OSI_models.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "net_OSI_models"
             }
           }
         ]
@@ -296,34 +179,42 @@
       "graph:Open graph view": false
     }
   },
-  "active": "5c782594de4fbf6f",
+  "active": "80499e96ee4a72c4",
   "lastOpenFiles": [
+    "Config/Attachments/pasted_image_20250530-215637.png",
+    "Core/net_TCP-IP_model.md",
+    "Core/net_OSI_models.md",
+    "Config/Attachments/pasted_image_20250530-215542.png",
+    "Core/net_DNS.md",
+    "Core/net_cihaz_tespiti.md",
+    "Core/net_ag_temelleri.md",
+    "Config/Attachments/pasted_image_20250530-215407.png",
+    "Config/Attachments/pasted_image_20250530-215227.png",
+    "Config/Attachments/pasted_image_20250530-215027.png",
+    "Config/Attachments/pasted_image_20250530-215030.png",
+    "Config/Attachments/Pasted image 20250530204306.png",
+    "Config/Attachments/Pasted image 20250530204622.png",
+    "Config/Attachments/Pasted image 20250530204808.png",
+    "Config/Attachments/pasted_image-20250530-204122.png",
+    "Config/Attachments/pasted_image-20250530-204129.png",
     "README.md",
+    "Config/Attachments/Pasted.md",
+    "Attachments/Pasted.md",
+    "Attachments",
     "Config/Templates/Template.md.md",
     "Technique.md",
     "Cheatsheets.md",
     "Core.md",
     "Labs.md",
-    "Core/net_ag_temelleri.md",
-    "Core/net_OSI_models.md",
     "Core/tool_nmap.md",
-    "Core/net_cihaz_tespiti.md",
     "Config/template.md",
-    "Core/net_TCP-IP_model.md",
     "Techniques/tool_nmap.md",
     "Exams.md",
     "Core/net_ports.md",
     "Core/tool_wireshark.md",
     "Core/net_HTTP.md",
-    "Core/net_DNS.md",
     "Core/linux_temelleri.md",
     "net_cihaz-tespiti.md",
-    "Config/Attachments/Pasted image 20250530204808.png",
-    "Config/Attachments/Pasted image 20250530204622.png",
-    "Config/Attachments/Pasted image 20250530204306.png",
-    "Config/Attachments/Pasted image 20250530204233.png",
-    "Config/Attachments/Pasted image 20250530204129.png",
-    "Config/Attachments/Pasted image 20250530204122.png",
     "assets",
     "Config/Attachments.md",
     "Media",
@@ -331,17 +222,11 @@
     "02_Tools/Untitled.md",
     "Untitled.canvas",
     "Welcome.md",
-    "00_Config/Untitled.md",
     "Config/Attachments",
     "Config/Templates",
     "Exams",
     "Labs",
     "Core",
-    "Techniques",
-    "Config",
-    "abdulkadiripek.com.md",
-    "create a link.md",
-    "Pasted image 20250525174946.png",
-    "Pasted image 20250525174929.png"
+    "Techniques"
   ]
 }

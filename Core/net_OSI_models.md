@@ -14,7 +14,7 @@ Her katman, belirli bir görevi üstlenir ve üst katmana hizmet sağlar.
 - **2. Veri Bağlantı Katmanı:** Fiziksel adresler ve hata kontrolü ile ilgilenir
 - **1. Fiziksel Katman:** Fiziksel ortam üzerinden bit iletimini sağlar
 
-![[Pasted image 20250530204622.png]]
+![pasted_image_20250530-215637.png](Config/Attachments/pasted_image_20250530-215637.png)
 
 ## Katmanlar
 

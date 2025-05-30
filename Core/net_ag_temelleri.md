@@ -11,7 +11,7 @@ Temel ağ topolojileri:
 
 Her topolojinin avantaj ve dezavantajları vardır.
 
-![[Pasted image 20250530204129.png]]
+![networktopology](Config/Attachments/pasted_image_20250530-215030.png)
 
 
 ---
@@ -32,7 +32,7 @@ Subnetting, IP adreslerini alt ağlara bölme işlemidir. Bu sayede:
 - **Broadcast Adresi:** Alt ağın son adresi
 - **Kullanılabilir IP'ler:** Cihazlara atanabilen aralıktaki IP’ler
 
-![[Pasted image 20250530204233.png]]
+![[resim](Config/Attachments/pasted_image_20250530-215227.png)
 
 
 | CIDR | Subnet Mask       | Host Sayısı |
@@ -81,7 +81,7 @@ Amaç: Ağa gelen/giden trafiği denetleyerek güvenliği sağlamak.
 - Donanım veya yazılım tabanlı olabilir
 - Genellikle **DMZ** ile birlikte çalışır
 
-![[Pasted image 20250530204306.png]]
+![pasted_image_20250530-215407.png](Config/Attachments/pasted_image_20250530-215407.png)
 
 ---
 
